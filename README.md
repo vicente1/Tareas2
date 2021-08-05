@@ -1,5 +1,5 @@
 # Lista tareas
-Proyecto inicial para crear aplicaciones web con Webpack
+Proyecto de lista de tareas
 ### Notas:
 Recuerde reconstruir los módulos de Node
 ```
