@@ -1,4 +1,4 @@
-# Webpack-starter
+# Lista tareas
 Proyecto inicial para crear aplicaciones web con Webpack
 ### Notas:
 Recuerde reconstruir los módulos de Node
